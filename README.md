@@ -21,10 +21,9 @@ Hi - I'm ShadowFlame, a Munich-based Gymnasium student and part‑time coder. I 
 ### (Un)Notable projects
 | Project | What went wrong |
 |---|---|
-| None (yet) | Everything — and I’m proud of it. |
+| Is this AI? - Chrome Extension | Nothing (yet) |
 
-### Contact
-- GitHub: @ShadowFlameFox  
+### Contact 
 - Email: shadow_flame_fox@web.de (response time: 2–3 business years)
 
 ### Contribute / Help
